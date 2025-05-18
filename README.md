@@ -1,6 +1,6 @@
 # MN Design Studio Website
 
-🔗 **Live Project**: [https://mn-design-17f74.web.app/projects](https://mn-design-17f74.web.app/projects)
+🔗 **Live Project**: [https://mn-design-17f74.web.app/]
 
 ---
 
