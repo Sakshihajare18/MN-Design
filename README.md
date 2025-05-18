@@ -8,7 +8,7 @@
 A modern architecture and interior design portfolio website for **MN Design Studio**, showcasing projects like bungalows, apartments, commercial sites, resorts, salons, and more.
 
 ## 🚀 Tech Stack
-- **Frontend**: React.js, Tailwind CSS, Bootstrap
+- **Frontend**: React.js,CSS, Bootstrap
 - **Backend/Storage**: Firebase Hosting
 - **Image Management**: Cloudinary image storage
 - **Additional Tools**: Typewriter Effect, Instagram Reels Embed
